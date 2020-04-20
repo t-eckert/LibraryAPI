@@ -1,5 +1,6 @@
 namespace LibraryAPI.Models
 {
+    using System.Collections.Generic;
     using LibraryAPI.Models.Enums;
 
     public class Media
